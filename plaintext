@@ -1,0 +1,9 @@
+portfolio-website/
+├── index.html
+├── style.css
+└── assets/
+    └── images/
+        └── projects/
+            ├── project-1.jpg
+            ├── project-2.jpg
+            └── project-3.jpg
